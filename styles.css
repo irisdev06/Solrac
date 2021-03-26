@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+
+.div__box {
+    border-color: transparent;
+    border-radius: 2rem;
+    height: 20rem;
+    width: 15rem;
+    display: block;
+    margin: auto;
+    background: rgb(218, 37, 162);
+    background: linear-gradient(90deg, rgba(218, 37, 162, 1) 0%, rgba(41, 0, 75, 0.4206057422969187) 67%);
+}
+
+.img {
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+
+
+}
+
+.text {
+    margin-top: 30px;
+    margin-left: 100px;
+    color: white;
+}
+
+.parrafo {
+    margin-top: 30px;
+    margin-left: 70px;
+    color: white;
+}
